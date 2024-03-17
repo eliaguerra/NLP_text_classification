@@ -11,7 +11,7 @@ Il progetto è interamente sviluppato in Python utilizzando librerie che impleme
 
 Il file `requirements.txt` contiene tutte le librerie necessarie per eseguire il codice. Per installarle è sufficiente eseguire il comando 
 
-`conda env create -f requirements.txt`.
+`conda env create -f env.yml`.
 
 Il codice per generare il dataset sintetico è contenuto nel notebook `Dataset_generation.ipynb`. Il codice per estrarre le classi dal dataset è contenuto nel notebook `Topic_modelling.ipynb`.
 

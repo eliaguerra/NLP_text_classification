@@ -9,7 +9,7 @@ Il progetto è interamente sviluppato in Python utilizzando librerie che impleme
 
 ## Descrizione della repository
 
-Il file `requirements.txt` contiene tutte le librerie necessarie per eseguire il codice. Per installarle è sufficiente eseguire il comando 
+Il file `env.yml` contiene tutte le librerie necessarie per eseguire il codice. Per installarle è sufficiente eseguire il comando 
 
 `conda env create -f env.yml`.
 
